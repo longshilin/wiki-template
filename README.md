@@ -1,5 +1,7 @@
 ![Page Deploy](https://github.com/longshilin/wiki/workflows/Page%20Deploy/badge.svg)
 
+[Docsify 中文文档](https://docsify.js.org/#/zh-cn/)
+
 # GitHub Quickstart
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
