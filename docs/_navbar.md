@@ -1,2 +1,2 @@
 - [Getting Started](quick-start.md)
-- [Feedback](/#feedback)
+- [wiki-template Project](https://github.com/sindresorhus/wiki-template)
