@@ -5,18 +5,18 @@
 ## Features
 
 [![docsify](https://img.shields.io/badge/maintained%20with-docsify-cc00ff.svg)](https://docsify.js.org/)
-![GitHub repo size](https://img.shields.io/github/repo-size/alertbox/gh-quickstart)
-![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/alertbox/gh-quickstart?include_prereleases)
-![GitHub](https://img.shields.io/github/license/alertbox/gh-quickstart)
+![GitHub repo size](https://img.shields.io/github/repo-size/longshilin/wiki-template)
+![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/longshilin/wiki-template?include_prereleases)
+![GitHub](https://img.shields.io/github/license/longshilin/wiki-template)
 
-For the old projects that are already running Docsify or you initialized using `docsify-cli`, you should have a look at [Docsify Served](https://alertbox/github.io/docsify-served/). But, for new projects, luckily, we have enabled [GitHub Quickstart](https://github.com/alertbox/gh-quickstart/generate/) as a GitHub Template repository so you can simply Docsify yourself.
+For the old projects that are already running Docsify or you initialized using `docsify-cli`, you should have a look at [Docsify Served](https://alertbox/github.io/docsify-served/). But, for new projects, luckily, we have enabled [GitHub Quickstart](https://github.com/longshilin/wiki-template/generate/) as a GitHub Template repository so you can simply Docsify yourself.
 
 - Best for GitHub Pages
 - Built as a GitHub Template repository
 - Built with Docsify in mind
 - No need of install packages locally
 - Supports Markdown and Docisy doc help syntax
-- Maintained by [the Alertbox Team](https://github.com/alertbox/gh-quickstart/)
+- Maintained by [the Alertbox Team](https://github.com/longshilin/wiki-template/)
 - Powered by [Docsify](https://docsify.js.org/) and [Docsify Served](https://alertbox.github.io/docsify-served/)
 
 > This template also consist of a few Markdown files inside the `docs/` folder based on the Docsify Boilerplate.
@@ -31,9 +31,9 @@ For the old projects that are already running Docsify or you initialized using `
 ## Feedback
 
 - Ask a question on [Stack Overflow]()
-- [Request a new feature](https://github.com/alertbox/gh-quickstart/issues/new?assignees=&labels=&template=feature_request.md&title=)
-- Upvote [popular feature requests](https://github.com/alertbox/gh-quickstart/issues)
-- [Report an issue](https://github.com/alertbox/gh-quickstart/issues/new?assignees=&labels=&template=bug_report.md&title=)
+- [Request a new feature](https://github.com/longshilin/wiki-template/issues/new?assignees=&labels=&template=feature_request.md&title=)
+- Upvote [popular feature requests](https://github.com/longshilin/wiki-template/issues)
+- [Report an issue](https://github.com/longshilin/wiki-template/issues/new?assignees=&labels=&template=bug_report.md&title=)
 - Follow [@alertboxinc](https://twitter.com/alertboxinc) and let us know what you think!
 
 ## Learning Resources
@@ -50,5 +50,5 @@ For the old projects that are already running Docsify or you initialized using `
 
 ## Community
 
-- Where to get help [the Docsify Community](https://discord.gg/3NwKFyR/), [the Alertbox Inc.](https://github.com/alertbox/gh-quickstart/issues/), or [Stack Overflow](https://stackoverflow.com/questions/tagged/docsify)
-- Where to file issues [alertbox/gh-quickstart/issues/](https://github.com/alertbox/gh-quickstart/issues/)
+- Where to get help [the Docsify Community](https://discord.gg/3NwKFyR/), [the Alertbox Inc.](https://github.com/longshilin/wiki-template/issues/), or [Stack Overflow](https://stackoverflow.com/questions/tagged/docsify)
+- Where to file issues [longshilin/wiki-template/issues/](https://github.com/longshilin/wiki-template/issues/)
