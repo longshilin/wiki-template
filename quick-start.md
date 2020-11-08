@@ -4,14 +4,14 @@
 
 ## Requirements
 
-We (`@alertbox`) use [GitHub Quickstart](https://github.com/alertbox/gh-quickstart/generate/) for our Docsify-enabled GitHub repositories of all sort. First, you will need followings to get started at the most basic level:
+We (`@alertbox`) use [GitHub Quickstart](https://github.com/longshilin/wiki-template/generate/) for our Docsify-enabled GitHub repositories of all sort. First, you will need followings to get started at the most basic level:
 
 - A GitHub account
 - An editor, like VS Code
 - Git, and
 - Docker Desktop
 
-For new projects, luckily, we have enabled [GitHub Quickstart](https://github.com/alertbox/gh-quickstart/generate/) as a GitHub Template so you can simply Docsify yourself without having to install any tools and dependencies via `npm` or `yarn`. You will want to follow this generic pattern:
+For new projects, luckily, we have enabled [GitHub Quickstart](https://github.com/longshilin/wiki-template/generate/) as a GitHub Template so you can simply Docsify yourself without having to install any tools and dependencies via `npm` or `yarn`. You will want to follow this generic pattern:
 
 - [Use this template](#use-this-template) to create a copy
 - [Preview locally](#preview-locally) to keep writing content
@@ -21,7 +21,7 @@ For new projects, luckily, we have enabled [GitHub Quickstart](https://github.co
 
 First, you will have to create a GitHub account if you don't have one already. [GitHub's Learning Lab](https://lab.github.com/) is a good source of information. Sign in to GitHub using your credentials, otherwise.
 
-Next, you want to create a copy of this source code. The repository is marked as a `Template` so you will only have to [Use This Template](https://github.com/alertbox/gh-quickstart/generate/) and follow the instructions. Read more about this in [the GitHub's Template Repositories](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template) document.
+Next, you want to create a copy of this source code. The repository is marked as a `Template` so you will only have to [Use This Template](https://github.com/longshilin/wiki-template/generate/) and follow the instructions. Read more about this in [the GitHub's Template Repositories](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template) document.
 
 That's it. You now have a Docsify-enabled minimal GitHub repo, and is ready to preview locally.
 
@@ -54,7 +54,7 @@ That's it. Go to your favorite browser and visit [localhost:8020](http://localho
 
 Once the project is up and running, you will want to tweak its content as you wish, for obvious reasons:
 
-- Replace the repository paths to yours. Find and replace all `alertbox/gh-quickstart`, for example: `kosalanuwan/my-awesome-docsify`
+- Replace the repository paths to yours. Find and replace all `longshilin/wiki-template`, for example: `kosalanuwan/my-awesome-docsify`
 - Then replace the remaining repository names to yours. Find and replace all occurrences of `gh-quickstart`, for example: `my-awesome-docsify`
 - Next, replace the website name to your site name. Find and replace all `GitHub Quickstart`, for example: `My Awesome Docsify`
 - Replace all the screenshots too
