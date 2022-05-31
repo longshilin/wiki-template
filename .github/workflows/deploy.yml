@@ -11,7 +11,7 @@ jobs:
       - name: Build the stack
         run: docker-compose up -d
       - name: Find and Replace
-        uses: jacobtomlinson/gha-find-replace@master
+        uses: jacobtomlinson/gha-find-replace@a15ba91dc95e858be1fde04b3ebc15ae5dd3065c
         with:
          find: <!--[\s\S]*?-->
          replace: ""
